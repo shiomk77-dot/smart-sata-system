@@ -3,7 +3,7 @@ Python data analysis system for structured data processing
 # Smart Data System
 
 ## Description
-A Python project that collects, validates, and analyzes structured data.
+A structured data processing system built with Python to simulate real-world data collection, validation, and analytics workflows.
 
 ## Features
 - Data collection system
